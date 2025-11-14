@@ -8,3 +8,4 @@ mysql:8
 jingbh/agentrl-controller:latest
 redis:7
 python:3.9-bullseye
+agentbench-webshop:latest
